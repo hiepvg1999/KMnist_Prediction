@@ -1,6 +1,6 @@
-"KMnist_Prediction" 
+KMnist_Prediction-japanese character 
 
-Build simple CNN to predict 10 classes of Hiragana.
+Build CNN to predict 10 classes of Hiragana.
 
 Create own handwriting word and convert into image size 28*28 and predict they.
 
